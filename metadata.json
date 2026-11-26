@@ -1,0 +1,6 @@
+{
+  "name": "Clasificador de Consumidores con Árboles de Decisión",
+  "description": "Asistente interactivo paso a paso bajo metodología CRISP-DM para construir, podar y evaluar árboles de clasificación CART con índice Gini y convertir los hallazgos en estrategias de marketing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
